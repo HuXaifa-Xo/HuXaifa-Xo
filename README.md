@@ -1,4 +1,4 @@
-![alt-text](https://github.com/HuXaifa-Xo/HuXaifa-Xo/blob/Huzaifa/Huzaifa1.gif)
+![alt-text](https://github.com/HuXaifa-Xo/HuXaifa-Xo/blob/Huzaifa/1601201705309.jpg)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HuXaifa-Xo&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 
