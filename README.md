@@ -8,4 +8,7 @@
 
 <a href="https://github.com/botolmehedi/b11"><img title="B11" src="https://github-readme-stats.vercel.app/api/pin/?username=HuXaifa-Xo&repo=Pak-Crack&theme=vision-friendly-dark"></a>
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuXaifa-Xo&repo=H-Phish&theme=chartreuse-dark" />
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuXaifa-Xo&repo=HTR&theme=chartreuse-dark" />
 
